@@ -2,11 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-/tcp
-/tcp2
-/tcpChatroom
-/udp
-/http
+tcp/
+tcp2/
+tcpChatroom/
+udp/
+http/
 
 ### Eclipse ###
 .apt_generated
