@@ -5,7 +5,7 @@ out/
 tcp/
 tcp2/
 tcpChatroom/
-udp/
+src/old/udp/
 http/
 
 
@@ -33,8 +33,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/src/tcp/
-/src/tcp2/
-/src/tcpChatroom/
-/src/udp/
-/src/http/
+/src/old/tcp/
+/src/old/tcp2/
+/src/old/tcpChatroom/
+/src/old/udp/
+/src/old/http/
+/src/old/
